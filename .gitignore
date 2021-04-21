@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Adding a config.py file
+config.py
+
+# Adding additional files
+random_numbers.ipynb
+API_Practice.ipynb
+
 # C extensions
 *.so
 
